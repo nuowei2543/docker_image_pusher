@@ -1,1 +1,1 @@
-alpine
+golang:1.22-bookworm --platform=linux/arm64
