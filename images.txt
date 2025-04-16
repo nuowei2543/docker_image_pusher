@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:22.04-py3 --platform=linux/arm64
+--platform=linux/arm64 nvcr.io/nvidia/pytorch:22.04-py3 
