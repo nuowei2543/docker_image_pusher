@@ -1,1 +1,1 @@
-gocv/opencv:4.10.0-ubuntu-20.04 --platform=linux/arm64
+nvcr.io/nvidia/pytorch:22.04-py3 --platform=linux/arm64
