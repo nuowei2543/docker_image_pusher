@@ -1,1 +1,1 @@
---platform=linux/arm64 nvcr.io/nvidia/pytorch:24.02-py3
+--platform=linux/amd64 xprobe/xinference:v1.7.1.post1
